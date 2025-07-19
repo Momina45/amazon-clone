@@ -12,7 +12,7 @@ A front-end clone of the Amazon website built using **HTML** and **CSS**. This p
 
 ##  Live Demo
 
-[Click here to view the live site](https://yourusername.github.io/amazon-clone/)
+[Click here to view the live site](https://momina45.github.io/amazon-clone/)
 
 ---
 
